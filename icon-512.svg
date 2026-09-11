@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="96" fill="#1f2937"/>
+<path d="M112 296L256 150l144 146v94a30 30 0 0 1-30 30H142a30 30 0 0 1-30-30z" fill="#b45309"/>
+<path d="M176 420V300h160v120" fill="#f3f4f6"/>
+<path d="M80 282L256 106l176 176" stroke="#f3f4f6" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="256" y="365" font-family="Arial, sans-serif" font-size="74" text-anchor="middle" font-weight="700" fill="#1f2937">CEC</text>
+</svg>
